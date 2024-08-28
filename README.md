@@ -35,7 +35,3 @@ This project is a basic implementation of a web-based image slider using HTML, C
     cd slider_web
     ```
 3. Open `index.html` in your web browser to view the image slider.
-
-## License
-
-This project is licensed under the MIT License.
